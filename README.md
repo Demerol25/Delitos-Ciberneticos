@@ -1,5 +1,5 @@
 ## Delitos-Ciberneticos
-## Ana Contreras Evangelsita
+## Ana Contreras Evangelista
 # Glosario de términos vistos en la clase de Delitos Cibernéticos 
 ### BIOS: Siglas de Basic Input/Output System, es un tipo de firmware que se encuentra soldado a la pieza base del equipo y se encarga de administrar las primeras operaciones al encender el sitema. Si se desactiva o se mueve algo, puede afectar a la computadora.
 ### Ciberacoso: Son conductas que tienen como objetivos el hostigar, amenazar, humillar o intimidar a una persona. Se suscita de diversas formas y en distintas plataformas de internet. Algunos ejemplos de ello es el ciberbullying, el doxing y el stalking.
